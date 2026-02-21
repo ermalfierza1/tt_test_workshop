@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  woke_id:      456573197712732161
+  wokwi_id:      456573197712732161
   title:        "E-Beam Inspection Pixel Core"      # Project title
   author:       "Ermal"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
